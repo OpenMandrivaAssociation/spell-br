@@ -9,7 +9,7 @@
 
 Name: 		spell-%{languagecode} 
 Version: 	0.2.1
-Release: 	8mdk
+Release: 	%mkrel 8
 Summary: 	Breton files for ispell and aspell
 Group: 		%{spell_group}
 URL: 		http://www.mandrake-linux.com
