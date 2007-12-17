@@ -15,7 +15,6 @@ Group: 		%{spell_group}
 URL: 		http://www.mandrake-linux.com
 Source:		spell-br-%{version}.tar.bz2
 License: 	GPL
-BuildRoot: 	%{_tmppath}/%{name}-buildroot
 Prefix: 	%{_prefix}
 Autoreqprov:   no
 BuildRequires:	locales-%{languagecode}
