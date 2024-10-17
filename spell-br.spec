@@ -12,7 +12,7 @@ Version: 	0.2.1
 Release: 	%mkrel 10
 Summary: 	Breton files for ispell and aspell
 Group: 		%{spell_group}
-URL: 		http://www.mandrake-linux.com
+URL: 		https://www.mandrake-linux.com
 Source:		spell-br-%{version}.tar.bz2
 License: 	GPL
 BuildRoot: 	%{_tmppath}/%{name}-buildroot
